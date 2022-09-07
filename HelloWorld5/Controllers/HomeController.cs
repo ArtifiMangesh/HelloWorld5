@@ -10,7 +10,7 @@ namespace HelloWorld5.Controllers
     {
         public ActionResult Index()
         {
-            int  ab ="a";
+            int  ab =b;
             return View();
         }
 
