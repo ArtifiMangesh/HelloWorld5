@@ -14,8 +14,12 @@ namespace HelloWorld5.Controllers
             int ab =2;
              int ab =3;
 
-            string name = 12;
-            string abc = abc;
+
+            for (int i = 0; i < length; i++)
+            {
+                Console.WriteLine();
+
+            }
             return View();
         }
 
