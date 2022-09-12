@@ -10,9 +10,12 @@ namespace HelloWorld5.Controllers
     {
         public ActionResult Index()
         {
+            int  ab =1;
+            int ab =2;
+             int ab =3;
 
-            string ab = "merged into dev from local";
-
+            string name = 12;
+            string abc = abc;
             return View();
         }
 
