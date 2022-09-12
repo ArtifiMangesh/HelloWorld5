@@ -11,6 +11,7 @@ namespace HelloWorld5.Controllers
         public ActionResult Index()
         {
             int  ab =abc;
+            int ab =pqr;
             return View();
         }
 
