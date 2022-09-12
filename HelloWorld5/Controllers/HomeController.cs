@@ -13,6 +13,8 @@ namespace HelloWorld5.Controllers
             int  ab =1;
             int ab =2;
              int ab =3;
+
+            string name = 12;
             return View();
         }
 
